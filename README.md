@@ -1,4 +1,4 @@
-<h2 align="center" font-face="monospace">Hi</h2>
+<h2 align="center" font-face="monospace">Hello There</h2>
 
 <a href=""><img align="center" src="https://github.com/Tres-cyber/dummy_website/blob/main/immgs/wallapaper_2.jpg"></a>
 
