@@ -3,10 +3,10 @@
 <a href=""><img align="center" src="https://github.com/Tres-cyber/dummy-website/blob/main/iimgs/Trusight.gif" width="1100"></a>
 
 <a href="https://github.com/Tres-cyber/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tres-cyber&show_icons=true&hide_border=true&theme=cobalt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tres-cyber&show_icons=true&hide_border=true&theme=dracula">
 </a>
 
 <a href="https://github.com/Tres-cyber/github-readme-stats">
-  <img align "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tres-cyber&langs_count=8&layout=compact&theme=cobalt&hide_border=true">
+  <img align "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tres-cyber&langs_count=8&layout=compact&theme=dracula&hide_border=true">
 </a>
 
