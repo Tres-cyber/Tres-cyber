@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+<a href=""><img src="https://github.com/Tres-cyber/dummy_website/blob/main/immgs/wallapaper_2.jpg" width="1100" height="400"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...                             dkwokdowkd
+![Tres-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tres-cyber&show_icons=true&theme=cobalt&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tres-cyber&layout=compact&theme=cobalt&hide_border=true)](https://github.com/Tres-cyber/github-readme-stats)
+- 🔭 I’m currently working on ...                            
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
