@@ -8,13 +8,13 @@
 
 <h1>Social Media <img src="https://slackmojis.com/emojis/6383-meow-popcorn/download" width="30"></h1>
 <p>
-   <a href="https://www.facebook.com/JuliaannGalassss">
+   <a href="https://www.facebook.com/JuliaannGalassss" target="_blank">
    <img alt="fb" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
    </a>
-   <a href="https://github.com/Tres-cyber">
+   <a href="https://github.com/Tres-cyber" target="_blank">
    <img alt"git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
    </a>
-   <a href="https://open.spotify.com/user/31gp5qu3wecnsgubf6p2p6umxct4">
+   <a href="https://open.spotify.com/user/31gp5qu3wecnsgubf6p2p6umxct4" target="_blank">
      <img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> 
    </a>   
 </p>
