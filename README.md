@@ -20,7 +20,7 @@
 </p>
 
 
-<h1>Languages and tools <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"></h1>
+<h1>Languages and Tools <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"></h1>
 <p>
    <img alt="disc" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   <img alt"reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
@@ -47,3 +47,6 @@
   <img align "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tres-cyber&langs_count=8&layout=compact&theme=cobalt&hide_border=true" />
 </a>
 
+<h1>Latest Project <img src="https://slackmojis.com/emojis/12420-meow_mudamudamuda/download" width="30"></h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tres-cyber&repo=CSU-Website-Remake&theme=cobalt&hide_border="true")](https://github.com/Tres-cyber/CSU-Website-Remake)
