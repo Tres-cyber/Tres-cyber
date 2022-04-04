@@ -49,4 +49,4 @@
 
 <h1>Latest Project <img src="https://slackmojis.com/emojis/12420-meow_mudamudamuda/download" width="30"></h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tres-cyber&repo=BlogSite&theme=cobalt&hide_border="true")](https://github.com/Tres-cyber/CSU-Website-Remake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tres-cyber&repo=BlogSite&theme=cobalt&hide_border="true")](https://github.com/Tres-cyber/BlogSite)
