@@ -4,7 +4,7 @@
 
 <h1>About me <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="30"></h1>
 
-<p><b>Hello there!</b> </br> My name is Louie Galamay. Currently living in Philippines <img src="https://cdn-icons-png.flaticon.com/128/206/206660.png" width="15">. A Sophomore student at Cagayan State University <img src="https://yt3.ggpht.com/ytc/AKedOLQXNYpNdzI1OIRyyL_7D_XkYBA13KGULJuZVnXWDQ=s900-c-k-c0x00ffffff-no-rj" width="13" />.</br>I'm an aspiring front-end developer.</p>
+<p><b>Hello there!</b> </br> My name is Louie Galamay. Currently living in Philippines <img src="https://cdn-icons-png.flaticon.com/128/206/206660.png" width="15">.</br>I'm an aspiring front-end developer.</p>
 
 <h1>Social Media <img src="https://slackmojis.com/emojis/6383-meow-popcorn/download" width="30"></h1>
 <p>
