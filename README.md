@@ -1,8 +1,6 @@
-
-
 <a href=""><img align="center" src="https://github.com/Tres-cyber/test-website/blob/main/gifs/louwiiii.gif" width="1100"></a>
 
-<h1>About me <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="30"></h1>
+<h1>About me <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="30" color="#0101010"></h1>
 
 <p><b>Hello there!</b> </br> My name is Louie Galamay. Currently living in Philippines <img src="https://cdn-icons-png.flaticon.com/128/206/206660.png" width="15">.</br>I'm an aspiring front-end developer.</p>
 
@@ -36,11 +34,17 @@
    <img alt"bs" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img alt"sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   
-<h1>Statistics <img src="https://slackmojis.com/emojis/12549-meow_angel/download" width="30"></h1>
+<h1>Language Stats <img src="https://slackmojis.com/emojis/12549-meow_angel/download" width="30"></h1>
 </p>
 
 <a href="https://github.com/Tres-cyber/github-readme-stats">
   <img align "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tres-cyber&langs_count=8&layout=compact&theme=cobalt&hide_border=true" />
+</a>
+
+
+<h1>Github Stats <img src="https://slackmojis.com/emojis/12549-fast_meow_party/download" width="30"></h1>
+<a href="https://github.com/Tres-cyber/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tres-cyber&theme=cobalt&hide_border=true" padding="100" width="350"  alt="GitHub statistics."/>
 </a>
 
 <h1>Latest Project <img src="https://slackmojis.com/emojis/12420-meow_mudamudamuda/download" width="30"></h1>
